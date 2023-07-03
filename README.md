@@ -4,7 +4,7 @@
 [![CodeQL](https://github.com/metrico/cloki-view/actions/workflows/codeql-scanner.yml/badge.svg)](https://github.com/metrico/cloki-view/actions/workflows/codeql-scanner.yml)
 
 
-# :eye: qryn view
+# :eye: Qryn-View
 
 *qryn-view* is a smart and minimal LogQl, Metrics, Traces and Flux API data explorer developed in React/JS and designed for [qryn](https://qryn.dev)
 
