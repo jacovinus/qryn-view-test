@@ -19,7 +19,6 @@ export default defineConfig({
         environment: 'happy-dom'
       },
     build: {
-        outDir:'../../dist',
         sourcemap: false,
         rollupOptions: {
             output: {
